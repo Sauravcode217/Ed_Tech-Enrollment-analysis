@@ -1,6 +1,6 @@
 # Ed_Tech-Enrollment-analysis
 
-my recent project analyzing the Stealth Edtech Startup by Raam Group enrollment dataset for kids' live online classes! Here's a snapshot of what we uncovered and recommended:
+My project analyzing the Stealth Edtech Startup by Raam Group enrollment dataset for kids' live online classes! Here's a snapshot of what we uncovered and recommended:
 
 
 
